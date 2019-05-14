@@ -1,6 +1,7 @@
 name: squeezer-hello-world
 
 runtime: nodejs
+runtimeVersion: "8.10"
 
 vars:
   stages:
